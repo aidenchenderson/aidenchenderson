@@ -1,9 +1,8 @@
 ## Hey, I'm Aiden!
 I'm an honours computer science student at McMaster University. 
-<br><br> University has helped me hone my skills in fundamental computer science areas like computer architecture, data structures & algorithms, and software development. I am also challenging myself academically by taking advanced courses in linear algebra to learn more about linear programming and computer graphics.
 
 ### 🤔 About me
-Outside of school I enjoy going to the gym, biking, and hanging out with my cats.
+Outside of school I enjoy going to the gym, playing guitar, biking, and hanging out with my cats.
 
 ### 💻 Tech Stack
 Listed here are the programming languages I am most familiar with and some of their related technology; I've separated the related ones into rows. I'm also experienced in Java but couldn't find an image for it. 😅
@@ -29,7 +28,7 @@ Listed here are the programming languages I am most familiar with and some of th
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
-I've had Co-op work experience with C#, SQL, JS, and Python.
+I've had previous co-op work experience with C#, SQL, JS, and Python at Ontario Power Generation (OPG).
 
 ### 👋 Thanks!
 Thank you for taking the time to read this! Feel free to check out projects I've made or contributed to below.
